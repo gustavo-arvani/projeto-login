@@ -7,6 +7,7 @@
     
     #login{
         width: 80vw;
+        height: 500px;
     }
 
     #imagem{
@@ -21,6 +22,14 @@
         width: 70%;
         height: 100%;
     }
+
+    h1{
+        padding-top: 90px;
+    }
+
+    p{
+        padding: 10px 0px;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -29,8 +38,8 @@
     }
     
     #login{
-        width: 85vw;
-        height: 600px;
+        width: 80vw;
+        height: 550px;
     }
 
     #imagem{
@@ -44,5 +53,13 @@
         float: right;
         width: 50%;
         height: 100%;
+    }
+
+    h1{
+        padding-top: 100px;
+    }
+
+    p{
+        padding: 10px 0px;
     }
 }
